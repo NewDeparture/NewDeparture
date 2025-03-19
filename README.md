@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### yihong0618 <a href="https://github.com/yihong0618/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/yihong0618/iBeats/main/files/heart.svg"/></a>
+### NewDeparture
 
 😄 你好~ 我是 NewDeparture，生活工作在[成都](https://zh.wikipedia.org/zh-hans/%E6%88%90%E9%83%BD%E5%B8%82)。
 喜爱[游戏](https://www.gcores.com/users/60793)，[跑步](https://www.yihong.run)，[读书](https://github.com/yihong0618/kindle_download_helper)，编程和[有趣的东西](https://github.com/yihong0618/blue)。
