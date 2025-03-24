@@ -4,7 +4,7 @@
 ### NewDeparture
 
 😄 你好~ 我是 NewDeparture，生活工作在[成都](https://zh.wikipedia.org/zh-hans/%E6%88%90%E9%83%BD%E5%B8%82)。
-喜爱[游戏]，[跑步](https://newdeparture.github.io/Running_Page/)，[读书]，编程和[有趣的东西]。
+喜爱[游戏]，[跑步](https://newdeparture.github.io/Running_Page/)，读书，编程和各种有趣的东西。
 
 Yesterday you said tomorrow. 
 
